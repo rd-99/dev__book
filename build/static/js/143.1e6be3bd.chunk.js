@@ -1,2 +1,0 @@
-(this["webpackJsonp@dev-book/local-client"]=this["webpackJsonp@dev-book/local-client"]||[]).push([[143],{320:function(a,e){Prism.languages.false={comment:{pattern:/\{[^}]*\}/},string:{pattern:/"[^"]*"/,greedy:!0},"character-code":{pattern:/'(?:[^\r]|\r\n?)/,alias:"number"},"assembler-code":{pattern:/\d+`/,alias:"important"},number:/\d+/,operator:/[-!#$%&'*+,./:;=>?@\\^_`|~\xdf\xf8]/,punctuation:/\[|\]/,variable:/[a-z]/,"non-standard":{pattern:/[()<BDO\xae]/,alias:"bold"}}}}]);
-//# sourceMappingURL=143.1e6be3bd.chunk.js.map

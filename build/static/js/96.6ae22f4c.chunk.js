@@ -1,2 +1,0 @@
-(this["webpackJsonp@dev-book/local-client"]=this["webpackJsonp@dev-book/local-client"]||[]).push([[96],{273:function(n,o){Prism.languages.csv={value:/[^\r\n,"]+|"(?:[^"]|"")*"(?!")/,punctuation:/,/}}}]);
-//# sourceMappingURL=96.6ae22f4c.chunk.js.map
