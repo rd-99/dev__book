@@ -1,6 +1,7 @@
+### Quick Guide 
 Simple and intuitive React App.
 Supports In-Browser cope compilation.
-Want to log any variable?? use show() instead of console.log()
+Want to log any variable?? use show() instead of console.log() .
 By default the code cell content are global to the Application.Remove the //@include to make it private!
 
 Plans currently in work :
