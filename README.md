@@ -1,3 +1,15 @@
+Simple and intuitive React App.
+Supports In-Browser cope compilation.
+Want to log any variable?? use show() instead of console.log()
+By default the code cell content are global to the Application.Remove the //@include to make it private!
+
+Plans currently in work :
+  Allow Users to create Code-book and store their work safely with a persisitant DB.
+
+Future Plans :
+  Add support for more languages, allow DEv-Book Sharing, public/privte Dev-Books and much more!
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
